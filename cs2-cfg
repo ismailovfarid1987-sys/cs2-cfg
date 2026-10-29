@@ -1,0 +1,105 @@
+👑 s1mple
+// Настройки мыши s1mple (400 DPI)
+sensitivity "3.09"
+zoom_sensitivity_ratio "1.00"
+
+// Положение рук s1mple (Viewmodel)
+viewmodel_fov "68"
+viewmodel_offset_x "2.5"
+viewmodel_offset_y "0"
+viewmodel_offset_z "-1.5"
+viewmodel_presetpos "1"
+
+// Код прицела s1mple: CSGO-HMijp-P4tdj-KTeAd-ZbkyN-hwAAA
+cl_crosshairsize "2"
+cl_crosshairgap "-3"
+cl_crosshairthickness "0"
+cl_crosshaircolor "4"
+cl_crosshairdot "1"
+cl_crosshairstyle "4"
+cl_crosshairusealpha "1"
+cl_crosshairalpha "255"
+cl_crosshair_drawoutline "0"
+
+// Параметры запуска s1mple: -freq 360 -novid +fps_max 0
+
+  🌟 ZywOo
+  // Настройки мыши ZywOo (400 DPI)
+sensitivity "2.00"
+zoom_sensitivity_ratio "1.00"
+
+// Положение рук ZywOo (Viewmodel)
+viewmodel_fov "68"
+viewmodel_offset_x "2.5"
+viewmodel_offset_y "0"
+viewmodel_offset_z "-1.5"
+viewmodel_presetpos "1"
+
+// Код прицела ZywOo: CSGO-QzpxT-BQAuz-86jSq-UmC2Q-eZH4C
+cl_crosshairsize "2"
+cl_crosshairgap "-3"
+cl_crosshairthickness "0"
+cl_crosshaircolor "2"
+cl_crosshairdot "0"
+cl_crosshairstyle "4"
+cl_crosshairusealpha "1"
+cl_crosshairalpha "255"
+cl_crosshair_drawoutline "0"
+
+// Параметры запуска ZywOo: -freq 360 -novid +fps_max 0
+
+  // Настройки мыши m0NESY (400 DPI)
+sensitivity "2.30"
+zoom_sensitivity_ratio "1.00"
+
+// Положение рук m0NESY (Viewmodel)
+viewmodel_fov "68"
+viewmodel_offset_x "2.5"
+viewmodel_offset_y "0"
+viewmodel_offset_z "-1.5"
+viewmodel_presetpos "1"
+  
+⚡ m0NESY
+// Код прицела m0NESY: CSGO-RMuGs-yNJ79-CcOma-4w4PZ-o387B
+cl_crosshairsize "1.5"
+cl_crosshairgap "-3"
+cl_crosshairthickness "0"
+cl_crosshaircolor "5"
+cl_crosshaircolor_r "255"
+cl_crosshaircolor_g "255"
+cl_crosshaircolor_b "255"
+cl_crosshairdot "0"
+cl_crosshairstyle "4"
+cl_crosshairusealpha "1"
+cl_crosshairalpha "255"
+cl_crosshair_drawoutline "0"
+
+// Параметры запуска m0NESY: -freq 360 -novid +fps_max 0
+
+🔥 donk
+  // Настройки мыши donk (800 DPI)
+sensitivity "1.25"
+zoom_sensitivity_ratio "1.00"
+
+// Положение рук donk (Viewmodel)
+viewmodel_fov "68"
+viewmodel_offset_x "2.5"
+viewmodel_offset_y "0"
+viewmodel_offset_z "-1.5"
+viewmodel_presetpos "1"
+
+// Код прицела donk: CSGO-jU4eP-8wSj8-EZVsB-HcJZs-iyNQC
+cl_crosshairsize "1.5"
+cl_crosshairgap "-4"
+cl_crosshairthickness "1"
+cl_crosshaircolor "5"
+cl_crosshaircolor_r "0"
+cl_crosshaircolor_g "255"
+cl_crosshaircolor_b "255"
+cl_crosshairdot "0"
+cl_crosshairstyle "4"
+cl_crosshairusealpha "1"
+cl_crosshairalpha "255"
+cl_crosshair_drawoutline "0"
+
+// Параметры запуска donk: -freq 240 -novid +fps_max 500
